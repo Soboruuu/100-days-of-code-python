@@ -5,3 +5,5 @@
 - Using API to Send Telegram Alerts/Messages
 ## Stock Trading News Alert
 ![day36](https://user-images.githubusercontent.com/98851253/156605605-16ffa52a-3bbe-4a88-a43c-9694758414a7.gif)
+
+https://blog.naver.com/soboruuu88/222901293020
